@@ -1,0 +1,9 @@
+streamlit==1.31.1
+streamlit
+transformers==4.39.3
+torch
+sentence-transformers
+scikit-learn
+gtts
+SpeechRecognition
+
